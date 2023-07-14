@@ -1,6 +1,9 @@
 # MultilingualChatApp-AppDemo
 This repo consist of screenshots and demo of chats of a Multilingual chat App. This app allows users to talk to people knowing other language in their own native language.
 
+### Tech Stack Used
+React Native, Firebase, Expo, Language Translation model(Facebook m2m100_418M)
+
 
 ## User SignUP and Login
 <img src="https://github.com/siddh9001/MultilingualChatApp-AppDemo/assets/86849427/7fa7775f-3122-49af-8396-fdfc634d6a39" width="230" height="500" />
