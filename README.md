@@ -1,6 +1,8 @@
 # MultilingualChatApp-AppDemo
 This repo consist of screenshots and demo of chats of a Multilingual chat App. This app allows users to talk to people knowing other language in their own native language.
 
+link for the code https://github.com/siddh9001/Vaartalap-FontEnd
+
 ### Tech Stack Used
 React Native, Firebase, Expo, Language Translation model(Facebook m2m100_418M)
 
